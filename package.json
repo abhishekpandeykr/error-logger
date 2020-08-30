@@ -1,5 +1,5 @@
 {
-  "name": "error_logger",
+  "name": "colourful_console_logger",
   "version": "0.1.0",
   "description": "this will log the error and values in the console",
   "main": "src/index.js",
